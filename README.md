@@ -1,6 +1,6 @@
 #Switch
 
-#Show version
+#Show version.Câu lệnh này không chỉ liệt kê phiên bản của phần mềm mà còn liệt kê vị trí Image của phần mềm, cũng như thời gian kể từ khi bộ chuyển mạch tải phần mềm.
 ```
 show version
 ```
