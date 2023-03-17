@@ -1,5 +1,5 @@
-# Switch
-## 2.Tiêu đề cấp 2
+#Switch
+
 Show version
 ```
 show version
