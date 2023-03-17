@@ -11,3 +11,7 @@ show ip interface brief
 ```
 show interfaces
 ```
+#Hiển thị nội dung của bảng MAC.
+```
+show mac address-table
+```
