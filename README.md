@@ -1,5 +1,4 @@
-# CiscoCLI
-#Switch-Config
+# Switch
 
 Show version
 ```
