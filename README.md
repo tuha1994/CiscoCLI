@@ -1,7 +1,7 @@
 #Switch
 
-Show version
-```**
-**show version**
-```**
-`đoạn cần bo`
+#1.Show version
+```
+show version
+```
+
